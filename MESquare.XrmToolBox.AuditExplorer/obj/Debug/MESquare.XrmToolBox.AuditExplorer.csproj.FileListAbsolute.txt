@@ -1,0 +1,17 @@
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csprojResolveAssemblyReference.cache
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.PluginControl.resources
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.Properties.Resources.resources
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csproj.GenerateResource.Cache
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csproj.CoreCompileInputs.cache
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.dll
+E:\Dropbox\Personal\Dev\CRM\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.pdb
+C:\Users\Slims\AppData\Roaming\MscrmTools\XrmToolBox\Plugins\MESquare.XrmToolBox.AuditExplorer.dll.config
+C:\Users\Slims\AppData\Roaming\MscrmTools\XrmToolBox\Plugins\MESquare.XrmToolBox.AuditExplorer.dll
+C:\Users\Slims\AppData\Roaming\MscrmTools\XrmToolBox\Plugins\MESquare.XrmToolBox.AuditExplorer.pdb
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csprojResolveAssemblyReference.cache
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.PluginControl.resources
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.Properties.Resources.resources
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csproj.GenerateResource.Cache
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.csproj.CoreCompileInputs.cache
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.dll
+E:\Dropbox\Personal\Dev\GitHub\MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer\obj\Debug\MESquare.XrmToolBox.AuditExplorer.pdb

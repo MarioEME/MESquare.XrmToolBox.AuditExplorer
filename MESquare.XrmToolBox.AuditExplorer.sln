@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MESquare.XrmToolBox.AuditExplorer", "MESquare.XrmToolBox.AuditExplorer\MESquare.XrmToolBox.AuditExplorer.csproj", "{8EBC08B7-FF32-4BA2-A003-7DE377BF92BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MESquare.MsCrm.Sdk", "..\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk\MESquare.MsCrm.Sdk.csproj", "{002CE648-F399-42B7-BB0A-3CDE7AE4AA0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBC08B7-FF32-4BA2-A003-7DE377BF92BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBC08B7-FF32-4BA2-A003-7DE377BF92BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBC08B7-FF32-4BA2-A003-7DE377BF92BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBC08B7-FF32-4BA2-A003-7DE377BF92BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002CE648-F399-42B7-BB0A-3CDE7AE4AA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002CE648-F399-42B7-BB0A-3CDE7AE4AA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002CE648-F399-42B7-BB0A-3CDE7AE4AA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002CE648-F399-42B7-BB0A-3CDE7AE4AA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D781EAD5-DBAC-47E4-A7B6-543FFF48F99A}
+	EndGlobalSection
+EndGlobal

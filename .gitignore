@@ -1,5 +1,5 @@
 .vs/*
-bin/*
-obj/*
+MESquare.XrmToolBox.AuditExplorer/bin/*
+MESquare.XrmToolBox.AuditExplorer/obj/*
 packages/*
 *.pfx

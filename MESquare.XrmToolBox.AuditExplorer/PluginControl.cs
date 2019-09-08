@@ -474,8 +474,7 @@ namespace MESquare.XrmToolBox.AuditExplorer
 
             }, () =>
             {
-                var newConn = this.ConnectionDetail.Clone() as ConnectionDetail;
-                return newConn.GetCrmServiceClient().OrganizationServiceProxy;
+                return this.Service;
             });
 
             SaveExcelFile(package);

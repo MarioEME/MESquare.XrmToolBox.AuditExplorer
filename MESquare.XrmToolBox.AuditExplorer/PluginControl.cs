@@ -523,7 +523,14 @@ namespace MESquare.XrmToolBox.AuditExplorer
             if (auditDetails != null && auditDetails.OldValue != null)
             {
                 Entity audit = auditDetails.AuditRecord;
-                foreach (var attribute in auditDetails.OldValue.Attributes)
+                var action = audit.GetAttributeValueAsString("action");
+                var actionText = audit.GetAttributeText("action");
+                var attributesToDisplay =
+                     audit.GetAttributeValue<OptionSetValue>("action").Value == 3 //delete
+                     ? auditDetails.OldValue.Attributes
+                     : auditDetails.NewValue.Attributes;
+
+                foreach (var attribute in attributesToDisplay)
                 {
                     var entityLogicalName = audit.GetAttributeValue<EntityReference>("objectid")?.LogicalName;
 
